@@ -1,4 +1,4 @@
-# Smurf Predictor | Brandon Jackson & Richard Tang
+# Smurf Finder | Brandon Jackson & Richard Tang
 
 ### This ambitious data science experiment's goal is to: given an input (summoner name), return a list of possible smurfs of that account. This project as inspried by an interview I watched with Team Liquid's coach Steve mentioned that when teams are scouting players they often need to get a full list of smurf accounts.
 ****
