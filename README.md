@@ -1,3 +1,4 @@
+# This is a CMSC320/461 (Introduction to DataScience) Final Poject and was my first time using Keras and my first real crack at Machine Learning.
 # Smurf Finder | Brandon Jackson, Richard Tang, Tuan Quach
 ## Visit https://devbrandon.github.io/Smurf-Finder/ for more informaiton
 ***
